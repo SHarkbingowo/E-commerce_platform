@@ -1,0 +1,19 @@
+Collection.py : 数据汇总代码文件
+FindCos_Train.py:对于训练数据集，寻找用户的K个最相似客户代码文件
+ItemScore.py:对于训练集数据，对用户购买商品评分代码文件
+Recommand_Train.py: 对于训练集数据，对用户进行推荐商品，并训练模型，确定最佳模型代码文件。
+Recommand_Test.py: 将算法应用于测试集，为共有客户推荐商品，并评估推荐算法的有效性代码文件。
+Predict_item.py: 预测推荐商品代码文件
+
+
+Testdata.csv:测试数据集
+Traindata.csv:训练数据集
+
+相似顾客相似度表_Train.csv:训练数据集上最相似的K个客户的ID与评分
+Score.csv:训练数据集上商品的推荐得分
+
+推荐商品_Test.csv：共有用户推荐商品
+
+
+
+（结果）推荐商品_Predict(Result):预测推荐商品

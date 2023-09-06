@@ -1,0 +1,11 @@
+DataCollection.py: 数据汇总代码文件
+DataPrecondition.py: 数据预处理代码文件
+Kmeans.py:K均值算法代码文件
+hist.py: 绘制直方图工具代码文件
+Scatter.py:绘制散点图工具代码文件
+
+cosinfoframe.csv：商品汇总表
+cosinfoframe_precondit.csv:商品汇总表数据预处理表
+result_1.xls：结果表
+
+
